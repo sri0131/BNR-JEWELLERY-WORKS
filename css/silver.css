@@ -1,0 +1,53 @@
+		   
+			 .mybtn{
+				color:white ;
+				  }
+			.active, .mybtn:hover{
+			  background:#E5F3F3  ;
+			  color:black;
+			  }	
+			  
+			
+		  .mybtn1{
+				color:black ;
+				padding:25px;
+					  }
+			  .mybtn1:hover{
+			  background:#D5D557;
+			  }
+          
+			.silver{
+			width:100%;
+			height:100%;
+			}
+			.Gold{
+			 width:100%;
+			 height:100%;
+             }	
+		 img{
+		 
+		 border-radius: 4px;
+		 padding: 3px;
+		 width: 100%;
+		 }
+		 img:hover {
+			  
+			  transform: scaleX();
+			   box-shadow: 0 0 2px 1px rgba(0, 140, 186,0.5)
+			}
+			.zoom {
+		  padding: 30px;
+		  transition: transform .2s;
+		  width: 300px;
+		  height: 300px;
+		  margin: 0 auto;
+		}
+
+		.zoom:hover {
+		  -ms-transform: scale(1.5); 
+		  -webkit-transform: scale(1.5); 
+		  transform: scale(1.1); 
+		}
+         
+					 
+				

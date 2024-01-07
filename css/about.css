@@ -1,0 +1,84 @@
+body {
+		font-family: "Lato", sans-serif;
+		}
+			
+		  
+			
+		  .text-center {
+		
+			
+			background-color:black;
+			color: white;
+
+		
+				}
+				
+			.card {
+			  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);			 
+			  
+			}
+			.card:hover{
+			background-color:#0BF3B7 ;
+			
+			}
+
+			
+			.button {
+			  padding: 10px 20px;
+			  font-size: 20px;
+			  text-align: center;
+			  cursor: pointer;
+			  
+			  color: #fff;
+			 background-color: #000;
+			  
+			  border-radius: 15px;
+			   width: 100%;
+			}
+			
+			
+			
+
+			.button:hover {
+			  background-color: #555;
+			}
+			
+			.height{
+			
+			height:80%;
+			width:100%;
+			}
+			
+			.card-img{
+			height:100%;
+			width:100%;
+			
+			}
+			.head{
+			color:#ffff;
+
+			}
+		
+			.head1{
+			color:#ffff;
+		
+			
+			}
+			.head2{
+			padding-right:40%;
+			
+			
+			}
+			.imgs{
+			
+			padding-right:30%;
+		}
+		.hero-image {
+			  background-image:  url("../pictures/background.jpg");
+			  height: auto;
+			  background-position: center;
+			  background-repeat: no-repeat;
+			  background-size: cover;
+			  position: relative;
+					}
+			

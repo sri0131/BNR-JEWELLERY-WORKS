@@ -1,0 +1,70 @@
+
+
+			.carousel-inner img {
+				width: 100%;
+				height:70%;
+				
+			  }
+
+			#myVideo {
+				width: 100%;
+				height:100%;
+					}
+
+			.content {
+				background:#9107F7;
+				color: #f1f1f1;
+				
+				width: 100%;
+				height:100%;
+					}
+			.content:hover{
+					background:#98F30B  ;
+					color:black;
+					
+					}
+
+			#myBtn {
+			
+				 cursor: pointer;
+					}
+			#myBtn:hover {
+				
+				color:black;
+				
+					}
+			.mybtn{
+				color:white ;
+				  }
+			.active, .mybtn:hover{
+			  background:#E5F3F3  ;
+			  color:black;
+			  }	
+			  
+			
+				
+				
+			.pngs{
+				bottom:50%;
+				left:45%;
+				position:absolute;
+				}
+			.vid{
+				
+				position:relative;
+				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

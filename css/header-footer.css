@@ -1,0 +1,128 @@
+.logo{
+            width:100%;
+            height:100%;
+            }
+
+
+		.sticky {
+			position: sticky;
+			  top: -5;
+			  padding: 5px;
+			   
+				}
+		
+				
+		.qr{
+				width:20%;
+				height:20%;
+				}
+	
+		.nwsd{
+			height:50%;
+	width:100%;
+	
+			
+			}	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+footer {
+    background-color:black;
+    padding: 30px;
+}
+
+footer p {
+    color: #fff;
+    margin: 0;
+    line-height: 20px;
+}
+
+footer p span {
+    color: #ffae2c;
+    font-weight: 600;
+}
+
+/*back to top button*/
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 25px;
+    padding: 0px 18px;
+    border-radius: 50px;
+}
+#telsta{
+	height:30%;
+	width:100%;
+	
+
+	
+}
+
+#telsta:hover {
+	box-shadow: none;
+}
+
+#qr{
+	height:20%;
+	width:20%;
+	
+
+	
+}
+
+#qr:hover {
+	box-shadow: none;
+}
+
+
+#nwsd{
+	height:30%;
+	width:100%;
+}
+
+#nwsd:hover {
+	box-shadow: none;
+}
+
+
+#con{
+	color:#E85D04;
+	padding-top:10px;
+	
+	
+}
+#con:hover{
+	color:#ffae2c;
+	
+	
+}
+
+
+#teamlist{
+	
+	color:grey;
+	font-size:17px;
+	background:black;
+
+	
+}
+
+
+#team-list{
+	background:none;
+	border:none;
+	color:#fff;
+	
+	font-family: 'Jost', sans-serif;
+	font-weight: 400;
+	
+}
+
+
